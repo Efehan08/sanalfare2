@@ -31,3 +31,12 @@ This version runs entirely locally using your built-in webcam.
    pip install opencv-python mediapipe pyautogui
 
 The pyautogui.FAILSAFE mechanism is intentionally disabled to provide a seamless edge-to-edge screen experience. To forcefully stop the application if needed, ensure your terminal window is accessible to press q or CTRL+C
+
+How to Use (Gestures)
+Move Cursor: Move your index and thumb fingers together around the screen.
+
+Left Click / Drag: Pinch your Index Finger and Thumb together. Hold to drag.
+
+Right Click: Pinch your Middle Finger and Thumb together.
+
+Exit: Press the q key on your physical keyboard to terminate the program.
